@@ -196,10 +196,22 @@ h5 {
 	border-style: solid;
 	border-color: #233607 #233607 transparent transparent;
 }*/
-
 #content p {
 	padding-left: 10px;
 }
+
+.about {
+	display: inline;
+	float: left;
+}
+
+p.about {
+	display: inline;
+	float: left;
+	width: 53%;
+	text-align: justify;
+}
+
 /*------------------------------------*/
 
 /*------------Footer block------------*/
