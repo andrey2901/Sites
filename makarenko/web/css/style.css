@@ -45,6 +45,7 @@
 #phones ul li {
 	color: #ffffff;
 	display: block;
+	line-height: 190%;
 	text-align: right;
 }
 /*------------------------------------*/
